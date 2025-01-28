@@ -1,0 +1,16 @@
+"Source:","C:\Users\PC\OneDrive\Documents\Travail\Semestre 7\Projet_S7\Projet prototype motorisation\Hacheur 4Q\Hacheur 4Q.kicad_sch"
+"Date:","14/11/2023 13:55:22"
+"Tool:","Eeschema 7.0.8"
+"Generator:","C:\Program Files\KiCad\7.0\bin\scripting\plugins/bom_csv_grouped_by_value.py"
+"Component Count:","22"
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","DNP"
+"1","1","A1","Arduino_UNO_R3","MCU_Module:Arduino_UNO_R3","Module:Arduino_UNO_R3","https://www.arduino.cc/en/Main/arduinoBoardUno",""
+"2","1","C1","100n","Device:C_Small","Capacitor_THT:CP_Radial_D5.0mm_P2.00mm","~",""
+"3","2","C2, C3","470u","Device:C_Small","Capacitor_THT:CP_Radial_D8.0mm_P3.50mm","~",""
+"4","8","D1, D2, D3, D4, D5, D6, D7, D8","B120-E3","Diode:B120-E3","Diode_SMD:D_SMA","http://www.vishay.com/docs/88946/b120.pdf",""
+"5","1","J1","Screw_Terminal_01x08","Connector:Screw_Terminal_01x08","TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-8-5.08_1x08_P5.08mm_Horizontal","~",""
+"6","8","R1, R2, R3, R4, R5, R6, R7, R8","2","Device:R","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","~",""
+"7","1","U1","L298N","Driver_Motor:L298N","Package_TO_SOT_THT:TO-220-15_P2.54x2.54mm_StaggerOdd_Lead4.58mm_Vertical","http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000240.pdf",""
